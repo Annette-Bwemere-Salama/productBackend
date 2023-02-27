@@ -1,0 +1,386 @@
+[
+{"fruits" : [
+        {
+            "id": 1,
+            "ref": "fruits_1",
+            "category": 0,
+            "name": "abrocot",
+            "price": 1,
+            "unit": "pièce",
+            "image": "abricot.jpeg"
+        },
+        {
+            "id": 2,
+            "ref": "fruits_2",
+            "category": 0,
+            "name": "Ananas",
+            "price": 1,
+            "unit": "pièce",
+            "image": "ananas.jpeg"
+        },
+    
+        {
+            "id": 3,
+            "ref": "fruits_3",
+            "category": 0,
+            "name": "avocat",
+            "price": 1,
+            "unit": "pièce",
+            "image": "avocat.jpeg"
+        },
+    
+        {
+            "id": 4,
+            "ref": "fruits_4",
+            "category": 0,
+            "name": "cdrice",
+            "price": 1,
+            "unit": "pièce",
+            "image": "cdrice.jpeg"
+        },
+    
+    
+        {
+            "id": 5,
+            "ref": "fruits_5",
+            "category": 0,
+            "name": "citron",
+            "price": 1,
+            "unit": "pièce",
+            "image": "citron.jpeg"
+        },
+    
+        {
+            "id": 6,
+            "ref": "fruits_6",
+            "category": 0,
+            "name": "fraise",
+            "price": 1,
+            "unit": "pièce",
+            "image": "fraise.jpeg"
+        },
+    
+        {
+            "id": 7,
+            "ref": "fruits_7",
+            "category": 0,
+            "name": "miel",
+            "price": 1,
+            "unit": "pièce",
+            "image": "miel.jpeg"
+        },
+    
+    
+        {
+            "id": 8,
+            "ref": "fruits_8",
+            "category": 0,
+            "name": "nectarine",
+            "price": 1,
+            "unit": "pièce",
+            "image": "nectarine.jpeg"
+        },
+    
+    
+        {
+            "id": 9,
+            "ref": "fruits_9",
+            "category": 0,
+            "name": "orange",
+            "price": 1,
+            "unit": "pièce",
+            "image": "orange.jpeg"
+        },
+    
+        {
+            "id": 10,
+            "ref": "fruits_10",
+            "category": 0,
+            "name": "papaye",
+            "price": 1,
+            "unit": "pièce",
+            "image": "papaye.jpeg"
+        },
+    
+        {
+            "id": 11,
+            "ref": "fruits_11",
+            "category": 0,
+            "name": "poire",
+            "price": 1,
+            "unit": "pièce",
+            "image": "poire.jpeg"
+        },
+    
+        {
+            "id": 12,
+            "ref": "fruits_12",
+            "category": 0,
+            "name": "pomme",
+            "price": 1,
+            "unit": "pièce",
+            "image": "pomme.jpeg"
+        },
+    
+        {
+            "id": 13,
+            "ref": "fruits_13",
+            "category": 0,
+            "name": "prune",
+            "price": 1,
+            "unit": "pièce",
+            "image": "prune.jpeg"
+        },
+    
+        {
+            "id": 14,
+            "ref": "fruits_14",
+            "category": 0,
+            "name": "prune",
+            "price": 1,
+            "unit": "pièce",
+            "image": "sure.jpeg"
+        }
+    ],
+    
+   "legumes": [
+        {
+            "id": 1,
+            "ref": "legumes_1",
+            "category": 1,
+            "name": "beterave",
+            "price": 40,
+            "unit": "kg",
+            "image": "beterave.jpg"
+        },
+    
+        {
+            "id": 2,
+            "ref": "legumes_2",
+            "category": 1,
+            "name": "carotte",
+            "price": 40,
+            "unit": "kg",
+            "image": "carottes.jpeg"
+        },
+    
+        {
+            "id": 3,
+            "ref": "legumes_3",
+            "category": 1,
+            "name": "choue Fleure",
+            "price": 40,
+            "unit": "kg",
+            "image": "choue_fleure.jpg"
+        },
+    
+        {
+            "id": 4,
+            "ref": "legumes_4",
+            "category": 1,
+            "name": "Courge",
+            "price": 40,
+            "unit": "kg",
+            "image": "courge.jpeg"
+        },
+    
+        {
+            "id": 5,
+            "ref": "legumes_5",
+            "category": 1,
+            "name": "Courge",
+            "price": 10,
+            "unit": "kg",
+            "image": "courgette.jpg"
+        },
+    
+        {
+            "id": 6,
+            "ref": "legumes_6",
+            "category": 1,
+            "name": "épinards",
+            "price": 20,
+            "unit": "kg",
+            "image": "epinares.jpeg"
+        },
+    
+        {
+            "id": 7,
+            "ref": "legumes_7",
+            "category": 1,
+            "name": "Feuille de Courge",
+            "price": 2,
+            "unit": "kg",
+            "image": "fcourge.jpg"
+        },
+    
+        {
+            "id": 1,
+            "ref": "legumes_8",
+            "category": 1,
+            "name": "Feuille de manioc",
+            "price": 2,
+            "unit": "kg",
+            "image": "fmanioc.jpg"
+        },
+    
+        {
+            "id": 2,
+            "ref": "legumes_9",
+            "category": 1,
+            "name": "Feuille de manioc",
+            "price": 2,
+            "unit": "kg",
+            "image": "haricot.jpeg"
+        },
+    
+        {
+            "id": 3,
+            "ref": "legumes_10",
+            "category": 1,
+            "name": "Maise",
+            "price": 2,
+            "unit": "kg",
+            "image": "maise.jpg"
+        },
+    
+        {
+            "id": 4,
+            "ref": "legumes_11",
+            "category": 1,
+            "name": "Patate Douce",
+            "price": 4,
+            "unit": "kg",
+            "image": "patateDouce.jpeg"
+        },
+    
+        {
+            "id": 5,
+            "ref": "legumes_12",
+            "category": 1,
+            "name": "Patate Douce Jaune",
+            "price": 7,
+            "unit": "kg",
+            "image": "patateDouceJaune.jpg"
+        },
+    
+        {
+            "id": 6,
+            "ref": "legumes_13",
+            "category": 1,
+            "name": "Pomme de Terre",
+            "price": 2,
+            "unit": "kg",
+            "image": "pomme de terre.jpg"
+        },
+    
+        {
+            "id": 7,
+            "ref": "legumes_14",
+            "category": 1,
+            "name": "Brocolis",
+            "price": 2,
+            "unit": "kg",
+            "image": "procolis.jpeg"
+        }
+    ],
+    
+ "cereal" : [
+        {
+            "id": 1,
+            "ref": "cereal_1",
+            "category": 2,
+            "name": "Riz",
+            "price": 5,
+            "unit": "kg",
+            "image": "rie.jpg"
+        },
+    
+        {
+            "id": 2,
+            "ref": "cereal_2",
+            "category": 2,
+            "name": "Riz",
+            "price": 5,
+            "unit": "kg",
+            "image": "riz.jpg"
+        },
+    
+        {
+            "id": 3,
+            "ref": "cereal_3",
+            "category": 2,
+            "name": "Riz",
+            "price": 12,
+            "unit": "kg",
+            "image": "rize.jpeg"
+        }
+    
+    ],
+    
+ "epice" : [
+        {
+            "id": 1,
+            "ref": "epice_1",
+            "category": 3,
+            "name": "celerie",
+            "price": 5.2,
+            "unit": "kg",
+            "image": "celerie.jpeg"
+        },
+    
+        {
+            "id": 2,
+            "ref": "epice_2",
+            "category": 3,
+            "name": "gingembre",
+            "price": 35,
+            "unit": "kg",
+            "image": "gegembre.jpeg"
+        },
+    
+        {
+            "id": 3,
+            "ref": "epice_3",
+            "category": 3,
+            "name": "Noix de Muscade",
+            "price": 35,
+            "unit": "kg",
+            "image": "noix de muscade.jpeg"
+        },
+    
+        {
+            "id": 4,
+            "ref": "epice_4",
+            "category": 3,
+            "name": "Du Piment",
+            "price": 35,
+            "unit": "kg",
+            "image": "piment.jpg"
+        },
+    
+    
+        {
+            "id": 5,
+            "ref": "epice_5",
+            "category": 3,
+            "name": "Du Poivrot",
+            "price": 35,
+            "unit": "kg",
+            "image": "povrot.jpeg"
+        }
+    
+    ],
+    
+"productSpeciaux":[
+        {
+            "id": 1,
+            "ref": "productSpeciaux_1",
+            "category": 4,
+            "name": "Du Fromage",
+            "price": 5,
+            "unit": "kg",
+            "image": "fromage.jpeg"
+        }
+    ]}
+]
